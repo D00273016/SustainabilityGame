@@ -4435,3 +4435,296 @@ Script Stack (0 frames) :
 [2025.03.04-20.52.29:059][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.04-20.52.29:059][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.04-20.52.29:059][ 59]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.03.04-20.55.09:053][687]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11472.071289
+[2025.03.04-20.55.10:055][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-20.55.10:055][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11472.737305, Update Interval: 304.250000
+[2025.03.04-21.01.01:425][744]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11824.355469
+[2025.03.04-21.01.02:425][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-21.01.02:425][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11825.022461, Update Interval: 332.529663
+[2025.03.04-21.07.32:473][917]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12215.337891
+[2025.03.04-21.07.33:472][920]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-21.07.33:472][920]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12216.004883, Update Interval: 323.634155
+[2025.03.04-21.13.35:508][  6]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12578.297852
+[2025.03.04-21.13.36:507][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-21.13.36:507][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12578.964844, Update Interval: 307.881104
+[2025.03.04-21.19.44:218][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12946.925781
+[2025.03.04-21.19.45:217][115]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-21.19.45:217][115]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12947.591797, Update Interval: 339.002655
+[2025.03.04-21.26.01:919][245]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13324.544922
+[2025.03.04-21.26.02:919][248]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-21.26.02:919][248]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13325.210938, Update Interval: 323.943604
+[2025.03.04-21.32.03:952][331]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13686.518555
+[2025.03.04-21.32.04:951][334]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-21.32.04:951][334]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13687.185547, Update Interval: 310.177307
+[2025.03.04-21.37.47:657][362]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14030.150391
+[2025.03.04-21.37.48:656][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-21.37.48:656][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14030.816406, Update Interval: 304.473389
+[2025.03.04-21.43.27:354][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14369.783203
+[2025.03.04-21.43.28:355][384]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-21.43.28:355][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14370.449219, Update Interval: 318.605927
+[2025.03.04-21.46.03:814][851]LogDerivedDataCache: C:/Users/Paulina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.04-21.49.37:394][491]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14739.751953
+[2025.03.04-21.49.38:393][494]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-21.49.38:393][494]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14740.418945, Update Interval: 331.154510
+[2025.03.04-21.55.59:768][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15122.035156
+[2025.03.04-21.56.00:769][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-21.56.00:769][641]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15122.701172, Update Interval: 338.002869
+[2025.03.04-22.02.23:142][788]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15505.328125
+[2025.03.04-22.02.24:142][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-22.02.24:142][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15505.995117, Update Interval: 334.639130
+[2025.03.04-22.08.56:857][969]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15898.934570
+[2025.03.04-22.08.57:857][972]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-22.08.57:857][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15899.600586, Update Interval: 348.755157
+[2025.03.04-22.11.55:119][983]Cmd: DELETE
+[2025.03.04-22.11.55:119][983]Cmd: ACTOR DELETE
+[2025.03.04-22.11.55:127][983]LogEditorActor: Deleted Actor: BP_PlayButton_C
+[2025.03.04-22.11.55:172][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.03.04-22.11.55:179][983]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2025.03.04-22.12.09:062][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.04-22.12.09:215][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.04-22.12.09:255][623]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.03.04-22.12.09:255][623]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/VRTemplateMap0DE4AA5945A45B4D876135A8F6BF20A8.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.03.04-22.12.09:265][623]LogFileHelpers: All files are already saved.
+[2025.03.04-22.12.09:265][623]LogFileHelpers: Saving map 'VRTemplateMap' took 0.117
+[2025.03.04-22.12.09:273][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 210.927 ms (total: 5.69 sec)
+[2025.03.04-22.12.09:378][623]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.04-22.12.09:378][623]LogContentValidation: Enabled validators:
+[2025.03.04-22.12.09:378][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.04-22.12.09:378][623]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.04-22.12.09:378][623]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.04-22.12.09:378][623]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.04-22.12.09:378][623]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.04-22.12.09:378][623]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.04-22.12.09:378][623]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.03.04-22.15.18:218][935]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16280.262695
+[2025.03.04-22.15.19:218][938]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-22.15.19:218][938]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16280.930664, Update Interval: 358.989227
+[2025.03.04-22.17.07:855][659]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.03.04-22.17.07:861][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.04-22.17.07:890][659]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.03.04-22.17.07:900][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010499s)
+[2025.03.04-22.17.07:900][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.010531s)
+[2025.03.04-22.17.07:948][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.04-22.17.07:956][659]LogChaosDD: Creating Chaos Debug Draw Scene for world VRTemplateMap
+[2025.03.04-22.17.07:957][659]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap'.
+[2025.03.04-22.17.07:957][659]LogPlayLevel: PIE: World Init took: (0.001435s)
+[2025.03.04-22.17.07:957][659]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.03.04-22.17.07:957][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.04-22.17.07:957][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.04-22.17.07:957][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.04-22.17.07:957][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.04-22.17.07:957][659]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.04-22.17.07:957][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.04-22.17.07:957][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.04-22.17.07:957][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.04-22.17.07:957][659]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.04-22.17.07:957][659]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.04-22.17.07:957][659]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.04-22.17.07:960][659]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.04-22.17.07:984][659]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Jabra Evolve2 40 SE)
+[2025.03.04-22.17.07:984][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.04-22.17.07:984][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.04-22.17.07:984][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.04-22.17.07:984][659]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.03.04-22.17.07:984][659]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.03.04-22.17.07:987][659]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.03.04-22.17.07:987][659]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.03.04-22.17.07:987][659]LogInit: FAudioDevice initialized with ID 18.
+[2025.03.04-22.17.07:987][659]LogAudio: Display: Audio Device (ID: 18) registered with world 'VRTemplateMap'.
+[2025.03.04-22.17.07:987][659]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.03.04-22.17.08:027][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.04-22.17.08:151][659]LogLoad: Game class is 'FashionVRGameMode_C'
+[2025.03.04-22.17.08:156][659]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2025.03.04-22.17.08
+[2025.03.04-22.17.08:156][659]LogWorld: Bringing up level for play took: 0.004477
+[2025.03.04-22.17.08:159][659]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2025.03.04-22.17.08:161][659]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.03.04-22.17.08:162][659]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.03.04-22.17.08:165][659]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.04-22.17.08:165][659]vr.PixelDensity = "1"
+[2025.03.04-22.17.08:171][659]PIE: Server logged in
+[2025.03.04-22.17.08:172][659]PIE: Play in editor total start time 0.312 seconds.
+[2025.03.04-22.17.08:228][659]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.03.04-22.17.08:292][660]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2025.03.04-22.17.10:950][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.04-22.17.10:950][896]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2025.03.04-22.17.10:996][896]LogSlate: Window 'SustainabilityGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.104.0)' being destroyed
+[2025.03.04-22.17.11:001][896]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.04-22.17.11:002][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.04-22.17.11:005][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.04-22.17.11:016][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.04-22.17.11:077][896]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.04-22.17.11:079][896]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.03.04-22.17.11:079][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.03.04-22.17.11:081][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2025.03.04-22.17.11:089][896]LogSlate: Slate User Unregistered.  User Index 8
+[2025.03.04-22.17.11:089][896]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.03.04-22.17.11:091][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.04-22.17.11:204][897]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2025.03.04-22.17.37:178][919]LogStreaming: Display: FlushAsyncLoading(538): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.04-22.17.37:579][919]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.515617 MB), EncodeSpeed: Fast
+[2025.03.04-22.18.19:097][ 42]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2025.03.04-22.18.19:109][ 42]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: bcba2cc49a0be8e32357e8d296bb85048a6058a8), compiling. Is special engine material.
+[2025.03.04-22.19.28:404][ 42]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.03.04-22.19.28:411][ 42]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.03.04-22.19.28:413][ 42]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.03.04-22.19.28:414][ 42]LogDeviceProfileManager: Going up to parent DeviceProfile [AppleTV]
+[2025.03.04-22.19.28:414][ 42]LogDeviceProfileManager: Going up to parent DeviceProfile [IOS]
+[2025.03.04-22.19.28:414][ 42]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.03.04-22.19.28:416][ 42]LogDeviceProfileManager: Display: Deviceprofile None not found.
+[2025.03.04-22.19.28:436][ 42]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: ================================================
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Total job queries 1,348, among them cache hits 58 (4.30%), DDC hits 212 (15.73%), Duplicates 279 (20.70%)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Tracking 1,011 distinct input hashes that result in 718 distinct outputs (71.02%)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: RAM used: 450.07 KiB of 1.60 GiB budget. Usage: 0.03%
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Shaders Compiled: 799
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Jobs assigned 799, completed 799 (100%)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Average time worker was idle: 0.27 s
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Time job spent in pending queue: average 28.65 s, longest 68.25 s
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Job execution time: average 2.44 s, max 8.22 s
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Job life time (pending + execution): average 31.08 s, max 68.57
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Shader code size: average 15.257 KiB, min 1.199 KiB, max 50.469 KiB
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 92.82 s
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.46%
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Jobs were issued in 573 batches (only local compilation was used), average 1.39 jobs/batch
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Average processing rate: 8.61 jobs/sec
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Total thread time: 687.134 s
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Total thread preprocess time: 15.069 s
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Percentage time preprocessing: 2.19%
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Effective parallelization: 7.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display:  TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 4.50 sec, max 4.50 sec, min 4.50 sec)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    1 times, average 4.49 sec, max 4.49 sec, min 4.49 sec)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 4.39 sec, max 4.39 sec, min 4.39 sec)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy (compiled    1 times, average 4.18 sec, max 4.18 sec, min 4.18 sec)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display:          TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 4.15 sec, max 4.15 sec, min 4.15 sec)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 49.05% of total time (compiled  260 times, average 1.30 sec, max 3.26 sec, min 0.00 sec)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.81% of total time (compiled   30 times, average 1.10 sec, max 1.92 sec, min 0.72 sec)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 4.62% of total time (compiled   24 times, average 1.32 sec, max 1.48 sec, min 1.03 sec)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display:                                               FHWRasterizeMS - 3.46% of total time (compiled   60 times, average 0.40 sec, max 0.54 sec, min 0.27 sec)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 3.28% of total time (compiled   24 times, average 0.94 sec, max 1.03 sec, min 0.79 sec)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: === Material stats ===
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Materials Translated:    210
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Material Translation Only: 0.06 s (48%)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: Material Cache Hits: 53 (25%)
+[2025.03.04-22.20.14:230][778]LogShaderCompilers: Display: ================================================
+[2025.03.04-22.20.26:241][619]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 0 (Found bundle for host: 0x9de37040a80 [serially])
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 6 (Closing connection)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B69E582F7-4BA2-AA58-D0BA-998F1D49C167%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=86142aa045f354cf38189a9206a1ae79%7Ce37984e257304881b08b67ebfbc827e4%7C3ba4b181-a5e8-42d6-957d-5234ba4ad218&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 9 (  Trying 3.212.233.44:443...)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.212.233.44) port 443)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 12 (SSL reusing session ID)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.03.04-22.21.13:095][592]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 23 (Server certificate:)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 25 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 26 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 30 (using HTTP/1.1)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 32 (Closing connection)
+[2025.03.04-22.21.13:095][593]LogHttp: Warning: 000009DFA79B4600: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.03.04-22.21.27:354][702]Cmd: TRANSACTION UNDO
+[2025.03.04-22.21.27:354][702]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.03.04-22.21.27:377][702]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.03.04-22.21.31:972][959]Cmd: TRANSACTION UNDO
+[2025.03.04-22.21.31:972][959]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.03.04-22.21.32:252][959]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.03.04-22.21.32:544][962]Cmd: TRANSACTION UNDO
+[2025.03.04-22.21.32:544][962]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.03.04-22.21.32:814][962]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.03.04-22.22.04:672][147]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16686.724609
+[2025.03.04-22.22.04:836][159]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.04-22.22.04:836][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16686.873047, Update Interval: 347.810303
+[2025.03.04-22.22.47:431][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.04-22.22.47:636][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.03.04-22.22.47:656][956]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2025.03.04-22.22.47:659][956]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.03.04-22.22.47:728][956]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.03.04-22.22.47:728][956]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/VRTemplateMap1A6598614D4547BCC5FAD0B34A7357E5.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.03.04-22.22.47:739][956]LogFileHelpers: All files are already saved.
+[2025.03.04-22.22.47:739][956]LogFileHelpers: Saving map 'VRTemplateMap' took 0.213
+[2025.03.04-22.22.47:747][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 316.103 ms (total: 6.00 sec)
+[2025.03.04-22.22.47:856][956]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.04-22.22.47:856][956]LogContentValidation: Enabled validators:
+[2025.03.04-22.22.47:856][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.04-22.22.47:856][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.04-22.22.47:856][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.04-22.22.47:856][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.04-22.22.47:856][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.04-22.22.47:858][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.04-22.22.47:858][956]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.03.04-22.22.48:246][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.04-22.22.48:421][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.04-22.22.48:509][983]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.03.04-22.22.48:509][983]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/VRTemplateMap089E106C4FC297FE73D5D7AD5059E764.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.03.04-22.22.48:521][983]LogFileHelpers: All files are already saved.
+[2025.03.04-22.22.48:521][983]LogFileHelpers: Saving map 'VRTemplateMap' took 0.178
+[2025.03.04-22.22.48:528][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 283.417 ms (total: 6.29 sec)
+[2025.03.04-22.22.48:658][983]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.04-22.22.48:658][983]LogContentValidation: Enabled validators:
+[2025.03.04-22.22.48:658][983]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.04-22.22.48:658][983]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.04-22.22.48:658][983]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.04-22.22.48:658][983]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.04-22.22.48:658][983]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.04-22.22.48:658][983]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.04-22.22.48:658][983]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.03.04-22.22.54:877][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.04-22.22.55:033][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.04-22.22.55:121][426]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.03.04-22.22.55:121][426]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/VRTemplateMap4139D42E441E2915584712B354C5E29A.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.03.04-22.22.55:133][426]LogFileHelpers: All files are already saved.
+[2025.03.04-22.22.55:133][426]LogFileHelpers: Saving map 'VRTemplateMap' took 0.179
+[2025.03.04-22.22.55:142][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 266.287 ms (total: 6.55 sec)
+[2025.03.04-22.22.55:272][426]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.04-22.22.55:272][426]LogContentValidation: Enabled validators:
+[2025.03.04-22.22.55:272][426]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.04-22.22.55:272][426]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.04-22.22.55:272][426]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.04-22.22.55:272][426]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.04-22.22.55:272][426]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.04-22.22.55:272][426]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.04-22.22.55:272][426]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.03.04-22.23.02:861][987]Cmd: ACTOR HIDE SELECTED
+[2025.03.04-22.23.31:936][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.04-22.23.32:106][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.03.04-22.23.32:199][776]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.03.04-22.23.32:199][776]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/VRTemplateMap98E3CC024C894F148836D2BEA18C61F4.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.03.04-22.23.32:211][776]LogFileHelpers: All files are already saved.
+[2025.03.04-22.23.32:211][776]LogFileHelpers: Saving map 'VRTemplateMap' took 0.183
+[2025.03.04-22.23.32:218][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 283.277 ms (total: 6.83 sec)
+[2025.03.04-22.23.32:341][776]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.04-22.23.32:341][776]LogContentValidation: Enabled validators:
+[2025.03.04-22.23.32:341][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.04-22.23.32:341][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.04-22.23.32:341][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.04-22.23.32:341][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.04-22.23.32:341][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.04-22.23.32:341][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.04-22.23.32:341][776]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
