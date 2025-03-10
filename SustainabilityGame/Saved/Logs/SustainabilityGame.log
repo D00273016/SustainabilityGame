@@ -2505,3 +2505,180 @@ FPackageName: Skipped package /Game/ExampleContent/Blueprint_Communication/Mater
 [2025.03.10-19.07.49:711][968]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.10-19.07.49:711][968]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.10-19.07.49:712][968]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.03.10-19.08.46:240][810]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-19.08.46:344][810]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sea_Life/sea_life.sea_life
+[2025.03.10-19.08.46:345][810]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sea_Life/sea_life.sea_life
+[2025.03.10-19.08.46:345][810]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Sea_Life/sea_life.sea_life as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_73
+[2025.03.10-19.08.46:872][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.10-19.08.46:874][857]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2025.03.10-19.08.46:877][857]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sea_Life/sea_life.sea_life
+[2025.03.10-19.08.46:877][857]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sea_Life/sea_life.sea_life
+[2025.03.10-19.08.46:880][857]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Sea_Life/sea_life.sea_life as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_74
+[2025.03.10-19.09.05:650][ 11]Cmd: TRANSACTION UNDO
+[2025.03.10-19.09.05:651][ 11]LogEditorTransaction: Undo Move Elements
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: ================================================
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Total job queries 2,488, among them cache hits 515 (20.70%), DDC hits 1,818 (73.07%), Duplicates 116 (4.66%)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Tracking 1,857 distinct input hashes that result in 1,268 distinct outputs (68.28%)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: RAM used: 714.17 KiB of 1.60 GiB budget. Usage: 0.04%
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Shaders Compiled: 39
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Jobs assigned 39, completed 39 (100%)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Average time worker was idle: 475.49 s
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.07 s
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Job execution time: average 8.61 s, max 12.12 s
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Job life time (pending + execution): average 8.66 s, max 12.18
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Shader code size: average 23.785 KiB, min 5.488 KiB, max 32.496 KiB
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.91 s
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 3.55 jobs/batch
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Average processing rate: 2.18 jobs/sec
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Total thread time: 68 s
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Total thread preprocess time: 32 s
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Percentage time preprocessing: 47.06%
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Effective parallelization: 3.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 2.65 sec, max 2.65 sec, min 2.65 sec)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 2.56 sec, max 2.68 sec, min 2.45 sec)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 2.51 sec, max 2.72 sec, min 2.29 sec)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 2.49 sec, max 2.66 sec, min 2.31 sec)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 2.45 sec, max 2.45 sec, min 2.45 sec)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.78% of total time (compiled    3 times, average 2.22 sec, max 2.48 sec, min 1.91 sec)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.54% of total time (compiled    2 times, average 2.56 sec, max 2.68 sec, min 2.45 sec)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.37% of total time (compiled    2 times, average 2.51 sec, max 2.72 sec, min 2.29 sec)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.31% of total time (compiled    2 times, average 2.49 sec, max 2.66 sec, min 2.31 sec)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.09% of total time (compiled    2 times, average 2.41 sec, max 2.70 sec, min 2.11 sec)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: === Material stats ===
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Materials Translated:    256
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Material Translation Only: 0.14 s (61%)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.03.10-19.09.23:847][850]LogShaderCompilers: Display: Material Cache Hits: 49 (19%)
+[2025.03.10-19.09.23:848][850]LogShaderCompilers: Display: ================================================
+[2025.03.10-19.11.14:161][247]LogDerivedDataCache: C:/Users/Paulina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.10-19.11.36:501][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18150.539062
+[2025.03.10-19.11.36:670][708]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-19.11.36:670][708]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18150.695312, Update Interval: 312.940460
+[2025.03.10-19.17.14:377][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly
+[2025.03.10-19.17.14:377][ 28]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly
+[2025.03.10-19.17.14:377][ 28]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_75
+[2025.03.10-19.17.16:777][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.03.10-19.17.16:782][295]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.03.10-19.17.16:786][295]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly
+[2025.03.10-19.17.16:786][295]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly
+[2025.03.10-19.17.16:787][295]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_76
+[2025.03.10-19.17.17:564][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly
+[2025.03.10-19.17.17:564][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly
+[2025.03.10-19.17.17:565][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_77
+[2025.03.10-19.17.18:800][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.10-19.17.18:803][503]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.03.10-19.17.18:808][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly
+[2025.03.10-19.17.18:808][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly
+[2025.03.10-19.17.18:809][503]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_78
+[2025.03.10-19.17.23:367][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly
+[2025.03.10-19.17.23:367][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly
+[2025.03.10-19.17.23:367][955]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_79
+[2025.03.10-19.17.24:607][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.10-19.17.24:610][ 93]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.03.10-19.17.24:614][ 93]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly
+[2025.03.10-19.17.24:614][ 93]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly
+[2025.03.10-19.17.24:616][ 93]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Garbage_Bag_White_LOWPOLY/garbage_bag_white_lowpoly.garbage_bag_white_lowpoly as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_80
+[2025.03.10-19.17.45:522][312]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18521.552734
+[2025.03.10-19.17.45:698][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-19.17.45:698][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18521.720703, Update Interval: 340.275269
+[2025.03.10-19.20.00:006][571]LogStreaming: Display: FlushAsyncLoading(548): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-19.20.00:129][574]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Pile_of_clothes/pile_of_clothes.pile_of_clothes
+[2025.03.10-19.20.00:129][574]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Pile_of_clothes/pile_of_clothes.pile_of_clothes
+[2025.03.10-19.20.00:129][574]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Pile_of_clothes/pile_of_clothes.pile_of_clothes as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_81
+[2025.03.10-19.20.00:900][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.10-19.20.00:903][650]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.03.10-19.20.00:907][650]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Pile_of_clothes/pile_of_clothes.pile_of_clothes
+[2025.03.10-19.20.00:907][650]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Pile_of_clothes/pile_of_clothes.pile_of_clothes
+[2025.03.10-19.20.00:908][650]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Pile_of_clothes/pile_of_clothes.pile_of_clothes as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_82
+[2025.03.10-19.20.30:347][939]Cmd: EDIT COPY
+[2025.03.10-19.20.30:685][973]Cmd: EDIT PASTE
+[2025.03.10-19.20.55:958][878]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 291715
+[2025.03.10-19.20.55:958][878]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2025.03.10-19.20.55:960][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-19.20.56:825][974]LogStreaming: Display: FlushAsyncLoading(549): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.10-19.20.57:005][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Towels_pile_pastel/towels_pile_pastel.towels_pile_pastel
+[2025.03.10-19.20.57:005][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Towels_pile_pastel/towels_pile_pastel.towels_pile_pastel
+[2025.03.10-19.20.57:005][981]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Towels_pile_pastel/towels_pile_pastel.towels_pile_pastel as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_84
+[2025.03.10-19.20.59:365][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.10-19.20.59:370][241]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.03.10-19.20.59:377][241]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Towels_pile_pastel/towels_pile_pastel.towels_pile_pastel
+[2025.03.10-19.20.59:377][241]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Towels_pile_pastel/towels_pile_pastel.towels_pile_pastel
+[2025.03.10-19.20.59:378][241]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Towels_pile_pastel/towels_pile_pastel.towels_pile_pastel as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_85
+[2025.03.10-19.21.52:002][ 66]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Fab/Towels_pile_pastel/towels_pile_pastel_texture_1.towels_pile_pastel_texture_1
+[2025.03.10-19.21.58:407][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-19.21.58:567][629]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Towels_pile_pastel/towels_pile_pastel_texture_1] ([1] browsable assets)...
+[2025.03.10-19.21.58:567][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Towels_pile_pastel/towels_pile_pastel_texture_1]
+[2025.03.10-19.21.58:868][629]LogSavePackage: Moving output files for package: /Game/Fab/Towels_pile_pastel/towels_pile_pastel_texture_1
+[2025.03.10-19.21.58:868][629]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/towels_pile_pastel_texture_1F7C20CB244B5B56392EBD398A6BE9BDE.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Content/Fab/Towels_pile_pastel/towels_pile_pastel_texture_1.uasset'
+[2025.03.10-19.21.58:881][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 474.636 ms (total: 3.83 sec)
+[2025.03.10-19.21.59:008][629]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.10-19.21.59:009][629]LogContentValidation: Enabled validators:
+[2025.03.10-19.21.59:009][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-19.21.59:009][629]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-19.21.59:009][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-19.21.59:009][629]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-19.21.59:009][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-19.21.59:009][629]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-19.21.59:009][629]AssetCheck: /Game/Fab/Towels_pile_pastel/towels_pile_pastel_texture_1 Validating asset
+[2025.03.10-19.22.02:773][932]LogSlate: Window 'BP_PlayerProfile' being destroyed
+[2025.03.10-19.22.02:782][932]LogSlate: Window 'BP_PlayerProfile' being destroyed
+[2025.03.10-19.22.02:788][932]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-19.22.02:788][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-19.22.02:938][932]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-19.22.02:939][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-19.22.02:998][932]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-19.22.02:998][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-19.22.03:042][932]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.10-19.22.03:042][932]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-19.22.03:042][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-19.22.03:100][932]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.10-19.22.03:100][932]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.10-19.22.03:100][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.10-19.22.03:180][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.10-19.22.10:125][624]Cmd: TRANSACTION UNDO
+[2025.03.10-19.22.10:125][624]LogEditorTransaction: Undo Place Objects
+[2025.03.10-19.22.27:678][536]Cmd: TRANSACTION UNDO
+[2025.03.10-19.22.27:678][536]LogEditorTransaction: Undo Move Elements
+[2025.03.10-19.22.30:233][787]Cmd: TRANSACTION UNDO
+[2025.03.10-19.22.30:233][787]LogEditorTransaction: Undo Move Elements
+[2025.03.10-19.22.33:065][120]Cmd: TRANSACTION UNDO
+[2025.03.10-19.22.33:065][120]LogEditorTransaction: Undo Move Elements
+[2025.03.10-19.22.34:527][218]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Towels_pile_pastel/towels_pile_pastel.towels_pile_pastel
+[2025.03.10-19.22.34:527][218]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Towels_pile_pastel/towels_pile_pastel.towels_pile_pastel
+[2025.03.10-19.22.34:527][218]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Towels_pile_pastel/towels_pile_pastel.towels_pile_pastel as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_86
+[2025.03.10-19.22.35:322][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.10-19.22.35:329][299]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.03.10-19.22.35:338][299]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Towels_pile_pastel/towels_pile_pastel.towels_pile_pastel
+[2025.03.10-19.22.35:338][299]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Towels_pile_pastel/towels_pile_pastel.towels_pile_pastel
+[2025.03.10-19.22.35:339][299]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Towels_pile_pastel/towels_pile_pastel.towels_pile_pastel as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_87
+[2025.03.10-19.23.15:907][835]Cmd: DELETE
+[2025.03.10-19.23.15:907][835]Cmd: ACTOR DELETE
+[2025.03.10-19.23.15:916][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.10-19.23.15:938][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.10-19.23.15:950][835]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2025.03.10-19.24.22:601][387]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18918.927734
+[2025.03.10-19.24.22:785][409]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-19.24.22:785][409]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18919.101562, Update Interval: 325.531189
+[2025.03.10-19.25.44:846][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-19.25.44:987][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.10-19.25.45:102][537]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.03.10-19.25.45:103][537]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/VRTemplateMap099E6F8846ACB57BA8F9CCB81A8731FB.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.03.10-19.25.45:115][537]LogFileHelpers: All files are already saved.
+[2025.03.10-19.25.45:115][537]LogFileHelpers: Saving map 'VRTemplateMap' took 0.170
+[2025.03.10-19.25.45:128][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 281.794 ms (total: 4.11 sec)
+[2025.03.10-19.25.45:258][537]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.10-19.25.45:258][537]LogContentValidation: Enabled validators:
+[2025.03.10-19.25.45:258][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-19.25.45:258][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-19.25.45:258][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-19.25.45:258][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-19.25.45:258][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-19.25.45:258][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-19.25.45:259][537]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
