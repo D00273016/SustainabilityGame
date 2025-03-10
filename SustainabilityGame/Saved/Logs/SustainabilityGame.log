@@ -2682,3 +2682,541 @@ FPackageName: Skipped package /Game/ExampleContent/Blueprint_Communication/Mater
 [2025.03.10-19.25.45:258][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.03.10-19.25.45:258][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.10-19.25.45:259][537]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.03.10-19.25.58:105][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-19.25.58:242][630]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2025.03.10-19.25.58:743][630]LogFileManager: Warning: DeleteFile recovered during retry!
+[2025.03.10-19.25.58:760][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.10-19.25.58:862][630]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.03.10-19.25.58:862][630]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/VRTemplateMapCEDE27374BA54BA39B77689C075996F6.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.03.10-19.25.58:875][630]LogFileHelpers: All files are already saved.
+[2025.03.10-19.25.58:875][630]LogFileHelpers: Saving map 'VRTemplateMap' took 0.656
+[2025.03.10-19.25.58:884][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 779.915 ms (total: 4.89 sec)
+[2025.03.10-19.25.59:016][630]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.10-19.25.59:016][630]LogContentValidation: Enabled validators:
+[2025.03.10-19.25.59:016][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-19.25.59:016][630]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-19.25.59:016][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-19.25.59:016][630]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-19.25.59:016][630]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-19.25.59:016][630]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-19.25.59:016][630]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.03.10-19.26.00:041][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-19.26.00:171][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.10-19.26.00:272][719]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.03.10-19.26.00:272][719]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/VRTemplateMapC64674A549A7E2D68759179605FE55EC.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.03.10-19.26.00:285][719]LogFileHelpers: All files are already saved.
+[2025.03.10-19.26.00:285][719]LogFileHelpers: Saving map 'VRTemplateMap' took 0.152
+[2025.03.10-19.26.00:293][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 252.970 ms (total: 5.14 sec)
+[2025.03.10-19.26.00:414][719]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.10-19.26.00:414][719]LogContentValidation: Enabled validators:
+[2025.03.10-19.26.00:414][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-19.26.00:414][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-19.26.00:414][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-19.26.00:414][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-19.26.00:414][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-19.26.00:414][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-19.26.00:416][719]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.03.10-19.26.12:388][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-19.26.12:510][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.10-19.26.12:611][143]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.03.10-19.26.12:611][143]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/VRTemplateMap5AADBD474729DA5BD6C50F9CD13D1869.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.03.10-19.26.12:623][143]LogFileHelpers: All files are already saved.
+[2025.03.10-19.26.12:623][143]LogFileHelpers: Saving map 'VRTemplateMap' took 0.148
+[2025.03.10-19.26.12:631][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 242.516 ms (total: 5.39 sec)
+[2025.03.10-19.26.12:738][143]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.10-19.26.12:738][143]LogContentValidation: Enabled validators:
+[2025.03.10-19.26.12:738][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-19.26.12:739][143]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-19.26.12:739][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-19.26.12:739][143]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-19.26.12:739][143]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-19.26.12:739][143]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-19.26.12:739][143]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.03.10-19.28.56:183][465]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2025.03.10-19.28.56:200][465]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2025.03.10-19.28.56:200][465]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2025.03.10-19.28.56:201][465]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2025.03.10-19.28.56:201][465]LogSwarmInterface: [TryOpenConnection] Local Process ID is 37816
+[2025.03.10-19.29.00:782][465]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2025.03.10-19.29.00:782][465]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2025.03.10-19.29.00:782][465]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2025.03.10-19.29.00:782][465]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2025.03.10-19.29.00:782][465]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2025.03.10-19.29.06:259][465]LogEditorBuildUtils: Build time 0:10
+[2025.03.10-19.29.08:717][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.10-19.29.30:662][474]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.30:662][474]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.30:737][481]LightingResults: Warning: SM_mc Object has overlapping UVs.
+[2025.03.10-19.29.30:737][481]LightingResults: SM_mc Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.30:749][482]LightingResults: Warning: TagBar_TitleCap1 Object has wrapping UVs.
+[2025.03.10-19.29.30:749][482]LightingResults: Warning: TagBar_TitleCap1 Object has overlapping UVs.
+[2025.03.10-19.29.30:762][483]LightingResults: TagBar_TitleCap1 Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.30:982][502]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.30:982][502]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.31:007][504]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.31:020][505]LightingResults: Warning: SM_DoorFrame_Vin Object has overlapping UVs.
+[2025.03.10-19.29.31:020][505]LightingResults: SM_DoorFrame_Vin Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.31:136][508]LightingResults: Warning: TagBar_TitleCap Object has wrapping UVs.
+[2025.03.10-19.29.31:136][508]LightingResults: Warning: TagBar_TitleCap Object has overlapping UVs.
+[2025.03.10-19.29.31:136][508]LightingResults: TagBar_TitleCap Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.31:136][508]LightingResults: Warning: RentADressShopText Object has wrapping UVs.
+[2025.03.10-19.29.31:136][508]LightingResults: Warning: RentADressShopText Object has overlapping UVs.
+[2025.03.10-19.29.31:136][508]LightingResults: RentADressShopText Lightmap UV are overlapping by 91.7%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.31:136][508]LightingResults: Warning: TagBar_TitleCap1 Object has wrapping UVs.
+[2025.03.10-19.29.31:136][508]LightingResults: Warning: TagBar_TitleCap1 Object has overlapping UVs.
+[2025.03.10-19.29.31:136][508]LightingResults: TagBar_TitleCap1 Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.31:156][509]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.31:284][510]LightingResults: Warning: SM_Window_Ren Object has overlapping UVs.
+[2025.03.10-19.29.31:284][510]LightingResults: SM_Window_Ren Lightmap UV are overlapping by 33.3%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.31:798][535]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.32:062][537]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.32:062][537]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.32:062][537]LightingResults: Warning: SM_Cylinder_002 Object has overlapping UVs.
+[2025.03.10-19.29.32:062][537]LightingResults: SM_Cylinder_002 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.32:104][538]LightingResults: Warning: TagBar_TitleCap Object has wrapping UVs.
+[2025.03.10-19.29.32:104][538]LightingResults: Warning: TagBar_TitleCap Object has overlapping UVs.
+[2025.03.10-19.29.32:104][538]LightingResults: TagBar_TitleCap Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.32:273][539]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.32:641][558]LightingResults: Warning: SM_Box Object has overlapping UVs.
+[2025.03.10-19.29.32:641][558]LightingResults: SM_Box Lightmap UV are overlapping by 95.0%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.32:871][569]LightingResults: Warning: TagBar_TitleCap Object has wrapping UVs.
+[2025.03.10-19.29.32:871][569]LightingResults: Warning: TagBar_TitleCap Object has overlapping UVs.
+[2025.03.10-19.29.32:871][569]LightingResults: TagBar_TitleCap Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.32:936][573]LightingResults: Warning: TagBar_TitleCap1 Object has wrapping UVs.
+[2025.03.10-19.29.32:936][573]LightingResults: Warning: TagBar_TitleCap1 Object has overlapping UVs.
+[2025.03.10-19.29.32:936][573]LightingResults: TagBar_TitleCap1 Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.32:936][573]LightingResults: Warning: SM_Cube_010 Object has overlapping UVs.
+[2025.03.10-19.29.32:936][573]LightingResults: SM_Cube_010 Lightmap UV are overlapping by 33.3%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.33:050][582]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.33:516][621]LightingResults: Warning: SM_Cube_010 Object has overlapping UVs.
+[2025.03.10-19.29.33:516][621]LightingResults: SM_Cube_010 Lightmap UV are overlapping by 33.3%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.34:380][675]LightingResults: Warning: SM_DoorFrame_Lux Object has overlapping UVs.
+[2025.03.10-19.29.34:380][675]LightingResults: SM_DoorFrame_Lux Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.34:641][697]LightingResults: Warning: TagBar_TitleCap Object has wrapping UVs.
+[2025.03.10-19.29.34:641][697]LightingResults: Warning: TagBar_TitleCap Object has overlapping UVs.
+[2025.03.10-19.29.34:641][697]LightingResults: TagBar_TitleCap Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.35:630][786]LightingResults: Warning: SM_DoorFrame_Org Object has overlapping UVs.
+[2025.03.10-19.29.35:630][786]LightingResults: SM_DoorFrame_Org Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.35:726][794]LightingResults: Warning: TagBar_TitleCap Object has wrapping UVs.
+[2025.03.10-19.29.35:726][794]LightingResults: Warning: TagBar_TitleCap Object has overlapping UVs.
+[2025.03.10-19.29.35:726][794]LightingResults: TagBar_TitleCap Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.35:903][810]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.35:903][810]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.35:999][816]LightingResults: Warning: SM_WallR_Lux Object has overlapping UVs.
+[2025.03.10-19.29.35:999][816]LightingResults: SM_WallR_Lux Lightmap UV are overlapping by 92.5%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.36:147][828]LightingResults: Warning: SM_Window_Lux Object has overlapping UVs.
+[2025.03.10-19.29.36:147][828]LightingResults: SM_Window_Lux Lightmap UV are overlapping by 33.3%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.36:202][833]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.36:338][845]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.36:360][847]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.36:381][848]LightingResults: Warning: LuxuryShopText Object has wrapping UVs.
+[2025.03.10-19.29.36:381][848]LightingResults: Warning: LuxuryShopText Object has overlapping UVs.
+[2025.03.10-19.29.36:381][848]LightingResults: LuxuryShopText Lightmap UV are overlapping by 94.7%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.36:393][849]LightingResults: Warning: SM_DoorFrame_Ren Object has overlapping UVs.
+[2025.03.10-19.29.36:393][849]LightingResults: SM_DoorFrame_Ren Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.36:481][856]LightingResults: Warning: SM_ShopFront_Fas Object has wrapping UVs.
+[2025.03.10-19.29.36:481][856]LightingResults: Warning: SM_ShopFront_Fas Object has overlapping UVs.
+[2025.03.10-19.29.36:481][856]LightingResults: SM_ShopFront_Fas Lightmap UV are overlapping by 84.6%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.36:658][872]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.36:658][872]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.37:406][935]LightingResults: Warning: SM_WallR_Vin Object has overlapping UVs.
+[2025.03.10-19.29.37:406][935]LightingResults: SM_WallR_Vin Lightmap UV are overlapping by 92.5%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.37:582][948]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.37:761][963]LightingResults: Warning: TagBar_TitleCap1 Object has wrapping UVs.
+[2025.03.10-19.29.37:761][963]LightingResults: Warning: TagBar_TitleCap1 Object has overlapping UVs.
+[2025.03.10-19.29.37:761][963]LightingResults: TagBar_TitleCap1 Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.37:877][973]LightingResults: Warning: my_chandelier_like_please_if_you_download Object has overlapping UVs.
+[2025.03.10-19.29.37:877][973]LightingResults: my_chandelier_like_please_if_you_download Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.37:910][976]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.38:118][996]LightingResults: Warning: TagBar_TitleCap Object has wrapping UVs.
+[2025.03.10-19.29.38:118][996]LightingResults: Warning: TagBar_TitleCap Object has overlapping UVs.
+[2025.03.10-19.29.38:118][996]LightingResults: TagBar_TitleCap Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.38:233][  7]LightingResults: Warning: OrgShopText Object has wrapping UVs.
+[2025.03.10-19.29.38:233][  7]LightingResults: Warning: OrgShopText Object has overlapping UVs.
+[2025.03.10-19.29.38:233][  7]LightingResults: OrgShopText Lightmap UV are overlapping by 90.0%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.38:328][ 14]LightingResults: Warning: TagBar_TitleCap1 Object has wrapping UVs.
+[2025.03.10-19.29.38:328][ 14]LightingResults: Warning: TagBar_TitleCap1 Object has overlapping UVs.
+[2025.03.10-19.29.38:328][ 14]LightingResults: TagBar_TitleCap1 Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.38:662][ 46]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.38:726][ 52]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.38:802][ 58]LightingResults: Warning: SM_Fancy_Mirror_BezierCircle Object has overlapping UVs.
+[2025.03.10-19.29.38:802][ 58]LightingResults: SM_Fancy_Mirror_BezierCircle Lightmap UV are overlapping by 98.8%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.39:332][108]LightingResults: Warning: TagBar_TitleCap Object has wrapping UVs.
+[2025.03.10-19.29.39:332][108]LightingResults: Warning: TagBar_TitleCap Object has overlapping UVs.
+[2025.03.10-19.29.39:332][108]LightingResults: TagBar_TitleCap Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.39:488][123]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.39:727][146]LightingResults: Warning: SM_Window_Org Object has overlapping UVs.
+[2025.03.10-19.29.39:727][146]LightingResults: SM_Window_Org Lightmap UV are overlapping by 33.3%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.39:751][148]LightingResults: Warning: TagBar_TitleCap1 Object has wrapping UVs.
+[2025.03.10-19.29.39:751][148]LightingResults: Warning: TagBar_TitleCap1 Object has overlapping UVs.
+[2025.03.10-19.29.39:751][148]LightingResults: TagBar_TitleCap1 Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.39:835][156]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.40:168][188]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.40:314][201]LightingResults: Warning: SM_Vinyl Object has overlapping UVs.
+[2025.03.10-19.29.40:314][201]LightingResults: SM_Vinyl Lightmap UV are overlapping by 33.3%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.40:492][216]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.40:492][216]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.40:672][232]LightingResults: Warning: SM_Case Object has overlapping UVs.
+[2025.03.10-19.29.40:672][232]LightingResults: SM_Case Lightmap UV are overlapping by 92.0%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.40:824][241]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.40:952][251]LightingResults: Warning: SM_mc Object has overlapping UVs.
+[2025.03.10-19.29.40:952][251]LightingResults: SM_mc Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.40:952][251]LightingResults: Warning: SM_WallR_Org Object has overlapping UVs.
+[2025.03.10-19.29.40:964][252]LightingResults: SM_WallR_Org Lightmap UV are overlapping by 92.5%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.40:977][253]LightingResults: Warning: TagBar_TitleCap Object has wrapping UVs.
+[2025.03.10-19.29.40:978][253]LightingResults: Warning: TagBar_TitleCap Object has overlapping UVs.
+[2025.03.10-19.29.40:978][253]LightingResults: TagBar_TitleCap Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.41:032][257]LightingResults: Warning: SM_Window_Vin Object has overlapping UVs.
+[2025.03.10-19.29.41:032][257]LightingResults: SM_Window_Vin Lightmap UV are overlapping by 33.3%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.41:032][257]LightingResults: Warning: TagBar_TitleCap Object has wrapping UVs.
+[2025.03.10-19.29.41:032][257]LightingResults: Warning: TagBar_TitleCap Object has overlapping UVs.
+[2025.03.10-19.29.41:032][257]LightingResults: TagBar_TitleCap Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.41:169][267]LightingResults: Warning: TagBar_TitleCap1 Object has wrapping UVs.
+[2025.03.10-19.29.41:169][267]LightingResults: Warning: TagBar_TitleCap1 Object has overlapping UVs.
+[2025.03.10-19.29.41:169][267]LightingResults: TagBar_TitleCap1 Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.41:169][267]LightingResults: Warning: TagBar_TitleCap1 Object has wrapping UVs.
+[2025.03.10-19.29.41:169][267]LightingResults: Warning: TagBar_TitleCap1 Object has overlapping UVs.
+[2025.03.10-19.29.41:169][267]LightingResults: TagBar_TitleCap1 Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.41:202][270]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.41:286][276]LightingResults: Warning: SM_Case Object has overlapping UVs.
+[2025.03.10-19.29.41:286][276]LightingResults: SM_Case Lightmap UV are overlapping by 92.0%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.41:320][279]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.41:447][289]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.41:467][290]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.41:480][291]LightingResults: Warning: TagBar_TitleCap Object has wrapping UVs.
+[2025.03.10-19.29.41:480][291]LightingResults: Warning: TagBar_TitleCap Object has overlapping UVs.
+[2025.03.10-19.29.41:480][291]LightingResults: TagBar_TitleCap Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.41:527][295]LightingResults: Warning: TagBar_TitleCap1 Object has wrapping UVs.
+[2025.03.10-19.29.41:527][295]LightingResults: Warning: TagBar_TitleCap1 Object has overlapping UVs.
+[2025.03.10-19.29.41:527][295]LightingResults: TagBar_TitleCap1 Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.41:547][296]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.41:604][300]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.41:678][306]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.41:801][318]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.41:801][318]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.41:855][321]LightingResults: Warning: TagBar_TitleCap1 Object has wrapping UVs.
+[2025.03.10-19.29.41:855][321]LightingResults: Warning: TagBar_TitleCap1 Object has overlapping UVs.
+[2025.03.10-19.29.41:855][321]LightingResults: TagBar_TitleCap1 Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.41:898][325]LightingResults: Warning: SM_Cube_010 Object has overlapping UVs.
+[2025.03.10-19.29.41:898][325]LightingResults: SM_Cube_010 Lightmap UV are overlapping by 33.3%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.41:931][328]LightingResults: Warning: TagBar_TitleCap Object has wrapping UVs.
+[2025.03.10-19.29.41:931][328]LightingResults: Warning: TagBar_TitleCap Object has overlapping UVs.
+[2025.03.10-19.29.41:931][328]LightingResults: TagBar_TitleCap Lightmap UV are overlapping by 3.2%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.42:117][343]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.42:214][352]LightingResults: Warning: SM_WallR_Ren Object has overlapping UVs.
+[2025.03.10-19.29.42:214][352]LightingResults: SM_WallR_Ren Lightmap UV are overlapping by 92.5%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.42:289][359]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.42:352][364]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.42:560][382]LightingResults: Warning: TagBar_TitleCap1 Object has wrapping UVs.
+[2025.03.10-19.29.42:560][382]LightingResults: Warning: TagBar_TitleCap1 Object has overlapping UVs.
+[2025.03.10-19.29.42:560][382]LightingResults: TagBar_TitleCap1 Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.42:616][387]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.42:802][405]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.42:814][406]LightingResults: Warning: SM_Half_Table_Circle_001 Object has wrapping UVs.
+[2025.03.10-19.29.42:814][406]LightingResults: Warning: SM_Half_Table_Circle_001 Object has overlapping UVs.
+[2025.03.10-19.29.42:816][406]LightingResults: SM_Half_Table_Circle_001 Lightmap UV are overlapping by 80.0%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.43:013][424]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.43:148][437]LightingResults: Warning: VintageShopText Object has wrapping UVs.
+[2025.03.10-19.29.43:148][437]LightingResults: Warning: VintageShopText Object has overlapping UVs.
+[2025.03.10-19.29.43:148][437]LightingResults: VintageShopText Lightmap UV are overlapping by 94.1%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.43:404][460]LightingResults: Warning: Display_Corner_B Object has wrapping UVs.
+[2025.03.10-19.29.43:686][483]LightingResults: Warning: SM_DoorFrame_Org Object has overlapping UVs.
+[2025.03.10-19.29.43:686][483]LightingResults: SM_DoorFrame_Org Lightmap UV are overlapping by 25.0%. Please adjust content - Enable Error Coloring to visualize.
+[2025.03.10-19.29.55:903][643]Job is a success!
+[2025.03.10-19.29.56:655][645]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.420s
+[2025.03.10-19.29.56:656][645]LogVolumetricLightmapImport:      Indirection Texture 96x80x32 = 0.9Mb
+[2025.03.10-19.29.56:656][645]LogVolumetricLightmapImport:      BrickData (all levels) 15.9Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2025.03.10-19.29.56:656][645]LogVolumetricLightmapImport:      Bricks at depth
+[2025.03.10-19.29.56:656][645]LogVolumetricLightmapImport:          0: 1.3% covering 100.0% of volume
+[2025.03.10-19.29.56:656][645]LogVolumetricLightmapImport:          1: 7.7% covering 9.2% of volume
+[2025.03.10-19.29.56:656][645]LogVolumetricLightmapImport:          2: 91.0% covering 1.7% of volume
+[2025.03.10-19.29.56:656][645]LogVolumetricLightmapImport:      Bricks in each level
+[2025.03.10-19.29.56:656][645]LogVolumetricLightmapImport:          VRTemplateMap 			 4567 bricks 	 100.0% (Persistent Level)
+[2025.03.10-19.29.57:497][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:497][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:497][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:497][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:497][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:498][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:498][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:525][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:528][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_5 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:529][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_5 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:530][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_6 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:531][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_7 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:532][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_6 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:559][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_7 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:564][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_8 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:565][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_8 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:567][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_10 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:567][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_10 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:568][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_9 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 124.041655 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:568][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_9 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 126.416656 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:595][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_11 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:595][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_11 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:595][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_12 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:597][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_12 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:598][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_13 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:598][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_13 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:599][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_14 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:600][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_14 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:600][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_15 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:601][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_15 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:602][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_16 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:602][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_16 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:602][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_17 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.416656 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:603][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_17 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 31.166582 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:603][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_18 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:603][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_19 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:603][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_18 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:608][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_19 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:608][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_20 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:608][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_20 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:608][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_21 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:609][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_21 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:609][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_22 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:609][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_22 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:611][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_23 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:612][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_23 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:612][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_24 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:612][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_24 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:613][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_25 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.416541 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:613][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_26 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 3.604127 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:613][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_25 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 8.541636 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:614][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_26 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 2.885386 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:615][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_27 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 3.604127 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:615][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_27 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 2.885386 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:616][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_28 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 3.604127 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:616][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_28 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 2.885386 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:616][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_29 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 3.604127 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:616][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_29 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 2.885386 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:617][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_30 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 3.604127 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:617][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_30 (TFO_DXT1, 128x128 x1x1x1) (Required Memory Estimate: 2.885386 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:744][645]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:ShadowMapTexture2D_2 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 38.333324 MB), EncodeSpeed: Fast
+[2025.03.10-19.29.57:760][645]Lightmass on PAU: 48.6 sec total, 2.30 sec importing, 1.72 sec setup, 17.3 sec photons, 27.2 sec processing, 0 us extra exporting [431/431 mappings]. Threads: 6:49 min total, 2:11 min processing.
+[2025.03.10-19.29.57:897][645]LogStaticLightingSystem: VRTemplateMap_BuiltData storing lightmap data for 299 meshes in 39 LightmapResourceClusters (7.7 Meshes per cluster).
+[2025.03.10-19.29.57:916][645]LogMaterial: Display: Material /Game/Fab/Pile_of_clothes/Dress_pile_u1_v1.Dress_pile_u1_v1 needed to have new flag set bUsedWithStaticLighting !
+[2025.03.10-19.29.57:930][645]LogMaterial: Display: Material /Game/Fab/Towels_pile_pastel/towels_pile_pastel_texture_1_Mat.towels_pile_pastel_texture_1_Mat needed to have new flag set bUsedWithStaticLighting !
+[2025.03.10-19.29.57:936][645]LogMaterial: Display: Material /Game/Fab/Megascans/3D/Small_Rope_Spool_villceo/Medium/MI_villceo.MI_villceo needed to have new flag set bUsedWithStaticLighting !
+[2025.03.10-19.29.57:991][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.03.10-19.29.58:023][645]LogStaticLightingSystem: Illumination: 1:01 min (195.234 ms encoding lightmaps, 125.538 ms encoding shadowmaps)
+[2025.03.10-19.29.58:023][645]LogStaticLightingSystem: Lightmap texture memory:  21.3 MB (21.3 MB streaming, 0.0 MB non-streaming), 62 textures
+[2025.03.10-19.29.58:023][645]LogStaticLightingSystem: Shadowmap texture memory: 5.4 MB (5.4 MB streaming, 0.0 MB non-streaming), 1 textures
+[2025.03.10-19.29.58:842][645]DumpUnbuiltLightIteractions
+[2025.03.10-19.29.58:842][645]Lights with unbuilt interactions: 0
+[2025.03.10-19.29.58:842][645]
+[2025.03.10-19.29.58:842][645]Primitives with unbuilt interactions: 0
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for pile_of_clothes2 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_83.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for pile_of_clothes was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_82.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for SM_DoorFrame_Lux was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_166.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for SM_DoorFrame_Org2 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_27.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for garbage_bag_white_lowpoly5 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_78.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for towels_pile_pastel was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_85.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for scene was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_4.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for scene2 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_10.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for scene3 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_14.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for dumpster_and_trashgltf was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_22.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for garbage_bag_white_lowpoly6 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_80.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for dirty_water_tank was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_38.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for dirty_water_tank2 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_46.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for villceo_tier_2 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_51.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for villceo_tier_3 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_53.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for vbelddldw_tier_2 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_55.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for vbelddldw_tier_3 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_57.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for vbelddldw_tier_4 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_59.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for vbelddldw_tier_5 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_61.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for vcblbchga_tier_2 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_63.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for vcblbchga_tier_3 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_65.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for vcblbchga_tier_4 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_67.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for vcblbchga_tier_5 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_69.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for old_skein_of_thread was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_71.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for garbage_bag_white_lowpoly3 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_72.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for sea_life was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_74.StaticMeshComponent0)
+[2025.03.10-19.29.58:842][645]LogEngine: Warning: MapBuildDataID for garbage_bag_white_lowpoly4 was updated during the static lighting build, marking package dirty (StaticMeshComponent /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_76.StaticMeshComponent0)
+[2025.03.10-19.30.46:828][645]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19303.564453
+[2025.03.10-19.30.46:828][645]Cmd: MAP CHECK NOTIFYRESULTS
+[2025.03.10-19.30.46:829][645]MapCheck: Warning: StaticMeshActor_122 Static mesh actor has NULL StaticMesh property 
+[2025.03.10-19.30.46:830][645]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 1.374ms to complete.
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: ================================================
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Total job queries 3,009, among them cache hits 676 (22.47%), DDC hits 1,843 (61.25%), Duplicates 208 (6.91%)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Tracking 2,125 distinct input hashes that result in 1,390 distinct outputs (65.41%)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: RAM used: 830.60 KiB of 1.60 GiB budget. Usage: 0.05%
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Shaders Compiled: 282
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Jobs assigned 282, completed 282 (100%)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Average time worker was idle: 95.87 s
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Time job spent in pending queue: average 17.97 s, longest 46.46 s
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Job execution time: average 2.70 s, max 12.12 s
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Job life time (pending + execution): average 20.67 s, max 47.97
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Shader code size: average 21.745 KiB, min 2.801 KiB, max 32.496 KiB
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 69.21 s
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.73%
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Jobs were issued in 240 batches (only local compilation was used), average 1.18 jobs/batch
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Average processing rate: 4.07 jobs/sec
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Total thread time: 434.843 s
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Total thread preprocess time: 39.349 s
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Percentage time preprocessing: 9.05%
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Effective parallelization: 6.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    6 times, average 2.28 sec, max 2.36 sec, min 2.20 sec)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    6 times, average 2.27 sec, max 2.37 sec, min 2.22 sec)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 2.26 sec, max 2.34 sec, min 2.19 sec)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    7 times, average 2.25 sec, max 2.44 sec, min 2.10 sec)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    6 times, average 2.25 sec, max 2.40 sec, min 2.18 sec)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.21% of total time (compiled   19 times, average 1.65 sec, max 2.48 sec, min 0.41 sec)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.66% of total time (compiled   13 times, average 2.23 sec, max 2.68 sec, min 1.84 sec)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.65% of total time (compiled   13 times, average 2.22 sec, max 2.66 sec, min 2.01 sec)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.50% of total time (compiled   13 times, average 2.17 sec, max 2.55 sec, min 1.97 sec)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 4.63% of total time (compiled    9 times, average 2.24 sec, max 2.63 sec, min 1.95 sec)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: === Material stats ===
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Materials Translated:    287
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Material Translation Only: 0.15 s (59%)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: Material Cache Hits: 49 (17%)
+[2025.03.10-19.30.46:924][646]LogShaderCompilers: Display: ================================================
+[2025.03.10-19.30.47:386][655]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-19.30.47:386][655]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19304.111328, Update Interval: 311.955322
+[2025.03.10-19.33.14:012][174]LogSlate: Window 'Message Log' being destroyed
+[2025.03.10-19.33.14:019][174]LogSlate: Window 'Message Log' being destroyed
+[2025.03.10-19.36.43:454][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19661.234375
+[2025.03.10-19.36.43:605][304]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-19.36.43:605][304]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19661.382812, Update Interval: 354.513977
+[2025.03.10-19.37.04:518][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.10-19.37.04:620][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto4
+[2025.03.10-19.37.04:621][744]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/VRTemplateMap_Auto4A3DE412946F57FDC897B569FF2CD7E2E.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto4.umap'
+[2025.03.10-19.37.04:622][744]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.123
+[2025.03.10-19.37.04:622][744]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.123
+[2025.03.10-19.37.04:623][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/InterchangeAssets/gltf/M_Unlit] ([1] browsable assets)...
+[2025.03.10-19.37.04:657][744]OBJ SavePackage:     Rendered thumbnail for [Material /InterchangeAssets/gltf/M_Unlit.M_Unlit]
+[2025.03.10-19.37.04:657][744]OBJ SavePackage: Finished generating thumbnails for package [/InterchangeAssets/gltf/M_Unlit]
+[2025.03.10-19.37.04:660][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/InterchangeAssets/gltf/M_Unlit_Auto4
+[2025.03.10-19.37.04:660][744]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/M_Unlit_Auto4C272B5D1427199BCD304F2B69BF294DE.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/Autosaves/InterchangeAssets/gltf/M_Unlit_Auto4.uasset'
+[2025.03.10-19.37.04:660][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/3D/Small_Rope_Spool_villceo/Medium/MI_villceo] ([1] browsable assets)...
+[2025.03.10-19.37.04:665][744]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Megascans/3D/Small_Rope_Spool_villceo/Medium/MI_villceo.MI_villceo]
+[2025.03.10-19.37.04:665][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Small_Rope_Spool_villceo/Medium/MI_villceo]
+[2025.03.10-19.37.04:666][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Small_Rope_Spool_villceo/Medium/MI_villceo_Auto4
+[2025.03.10-19.37.04:666][744]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/MI_villceo_Auto4F1C54CAE4D9AA73D801B91B416E2AA1A.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/Autosaves/Game/Fab/Megascans/3D/Small_Rope_Spool_villceo/Medium/MI_villceo_Auto4.uasset'
+[2025.03.10-19.37.04:667][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Fab/Materials/Standard/M_MS_Base] ([1] browsable assets)...
+[2025.03.10-19.37.04:672][744]OBJ SavePackage:     Rendered thumbnail for [Material /Fab/Materials/Standard/M_MS_Base.M_MS_Base]
+[2025.03.10-19.37.04:672][744]OBJ SavePackage: Finished generating thumbnails for package [/Fab/Materials/Standard/M_MS_Base]
+[2025.03.10-19.37.04:676][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Fab/Materials/Standard/M_MS_Base_Auto4
+[2025.03.10-19.37.04:676][744]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/M_MS_Base_Auto40CFDDB984032B2DFD185B4AC56DFE0F2.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/Autosaves/Fab/Materials/Standard/M_MS_Base_Auto4.uasset'
+[2025.03.10-19.37.04:677][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Pile_of_clothes/Dress_pile_u1_v1] ([1] browsable assets)...
+[2025.03.10-19.37.04:681][744]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Pile_of_clothes/Dress_pile_u1_v1.Dress_pile_u1_v1]
+[2025.03.10-19.37.04:681][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Pile_of_clothes/Dress_pile_u1_v1]
+[2025.03.10-19.37.04:683][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Pile_of_clothes/Dress_pile_u1_v1_Auto4
+[2025.03.10-19.37.04:683][744]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/Dress_pile_u1_v1_Auto44900B5D44998A2A4921173B35EEE63C3.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/Autosaves/Game/Fab/Pile_of_clothes/Dress_pile_u1_v1_Auto4.uasset'
+[2025.03.10-19.37.04:684][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Towels_pile_pastel/towels_pile_pastel_texture_1_Mat] ([1] browsable assets)...
+[2025.03.10-19.37.04:687][744]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Fab/Towels_pile_pastel/towels_pile_pastel_texture_1_Mat.towels_pile_pastel_texture_1_Mat]
+[2025.03.10-19.37.04:687][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Towels_pile_pastel/towels_pile_pastel_texture_1_Mat]
+[2025.03.10-19.37.04:689][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Towels_pile_pastel/towels_pile_pastel_texture_1_Mat_Auto4
+[2025.03.10-19.37.04:689][744]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/towels_pile_pastel_texture_1_Mat8BD8C4EB45B19792A97D53AE1FB13C33.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/Autosaves/Game/Fab/Towels_pile_pastel/towels_pile_pastel_texture_1_Mat_Auto4.uasset'
+[2025.03.10-19.37.04:690][744]LogFileHelpers: Auto-saving content packages took 0.067
+[2025.03.10-19.43.17:474][418]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20057.636719
+[2025.03.10-19.43.17:633][437]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-19.43.17:633][437]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20057.792969, Update Interval: 354.702606
+[2025.03.10-19.49.52:146][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20454.916016
+[2025.03.10-19.49.52:303][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-19.49.52:303][790]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20455.070312, Update Interval: 342.547668
+[2025.03.10-19.56.27:018][109]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20844.419922
+[2025.03.10-19.56.27:175][128]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-19.56.27:175][129]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20844.566406, Update Interval: 331.762451
+[2025.03.10-20.02.39:515][805]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21211.302734
+[2025.03.10-20.02.39:681][825]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-20.02.39:681][825]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21211.458984, Update Interval: 312.381958
+[2025.03.10-20.04.24:534][406]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: e37...7e4
+[2025.03.10-20.04.24:534][406]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.552e+07
+[2025.03.10-20.04.24:717][428]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: e37...7e4 Access[Expires: 2025.03.10-22.04.24 Remaining: 7200.43] Refresh[Expires: 2025-09-06T10:05:28.864Z Remaining: 15516064.86] State: Valid
+[2025.03.10-20.08.47:976][ 17]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21574.382812
+[2025.03.10-20.08.48:151][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-20.08.48:151][ 39]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21574.541016, Update Interval: 305.451202
+[2025.03.10-20.11.14:162][557]LogDerivedDataCache: C:/Users/Paulina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.10-20.14.38:265][ 47]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21918.160156
+[2025.03.10-20.14.38:448][ 69]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-20.14.38:448][ 69]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21918.333984, Update Interval: 342.939545
+[2025.03.10-20.21.07:831][792]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22298.619141
+[2025.03.10-20.21.08:014][814]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-20.21.08:015][815]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22298.791016, Update Interval: 316.406738
+[2025.03.10-20.26.57:418][739]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22639.871094
+[2025.03.10-20.26.57:577][758]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-20.26.57:577][758]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22640.015625, Update Interval: 319.171722
+[2025.03.10-20.32.56:421][815]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22993.595703
+[2025.03.10-20.32.56:596][836]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-20.32.56:596][836]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22993.759766, Update Interval: 329.162262
+[2025.03.10-20.39.20:677][921]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23371.822266
+[2025.03.10-20.39.20:851][942]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-20.39.20:851][942]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23371.986328, Update Interval: 325.565979
+[2025.03.10-20.45.27:489][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23731.980469
+[2025.03.10-20.45.27:639][950]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-20.45.27:639][950]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23732.117188, Update Interval: 356.663727
+[2025.03.10-20.52.20:586][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24135.900391
+[2025.03.10-20.52.20:760][519]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-20.52.20:760][519]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24136.066406, Update Interval: 351.924805
+[2025.03.10-20.58.46:958][859]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24513.794922
+[2025.03.10-20.58.47:124][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-20.58.47:124][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24513.951172, Update Interval: 306.509613
+[2025.03.10-21.04.43:552][646]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24864.429688
+[2025.03.10-21.04.43:736][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-21.04.43:736][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24864.609375, Update Interval: 340.848419
+[2025.03.10-21.11.10:458][ 70]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25245.816406
+[2025.03.10-21.11.10:627][ 90]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-21.11.10:627][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25245.974609, Update Interval: 329.889221
+[2025.03.10-21.11.14:162][515]LogDerivedDataCache: C:/Users/Paulina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.10-21.17.24:302][927]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25612.291016
+[2025.03.10-21.17.24:470][947]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-21.17.24:470][948]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25612.445312, Update Interval: 343.126312
+[2025.03.10-21.23.53:328][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25991.496094
+[2025.03.10-21.23.53:478][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-21.23.53:478][626]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25991.634766, Update Interval: 315.148773
+[2025.03.10-21.30.00:231][631]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26350.341797
+[2025.03.10-21.30.00:395][651]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-21.30.00:395][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26350.496094, Update Interval: 354.977264
+[2025.03.10-21.36.45:792][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26750.171875
+[2025.03.10-21.36.45:950][313]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.10-21.36.45:950][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26750.320312, Update Interval: 357.908875
+[2025.03.10-21.38.31:882][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-21.38.32:020][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.10-21.38.32:122][877]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.03.10-21.38.32:123][877]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/VRTemplateMap65C8C66B43A2CDF455DCDC920E11C3BE.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.03.10-21.38.32:135][877]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2025.03.10-21.38.32:135][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-21.38.32:135][877]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Maps/VRTemplateMap_BuiltData] ([1] browsable assets)...
+[2025.03.10-21.38.32:135][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Maps/VRTemplateMap_BuiltData]
+[2025.03.10-21.38.32:358][877]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2025.03.10-21.38.32:359][877]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/VRTemplateMap_BuiltData5D8203F74C0C91217B28179FC5FC20BA.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2025.03.10-21.38.32:362][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 229.208 ms (total: 5.61 sec)
+[2025.03.10-21.38.32:364][877]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2025.03.10-21.38.32:364][877]LogFileHelpers: Saving map 'VRTemplateMap' took 0.383
+[2025.03.10-21.38.32:375][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 492.356 ms (total: 6.11 sec)
+[2025.03.10-21.38.32:509][877]LogContentValidation: Display: Starting to validate 2 assets
+[2025.03.10-21.38.32:509][877]LogContentValidation: Enabled validators:
+[2025.03.10-21.38.32:509][877]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-21.38.32:509][877]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-21.38.32:509][877]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-21.38.32:509][877]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-21.38.32:509][877]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-21.38.32:509][877]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-21.38.32:509][877]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.03.10-21.38.32:509][877]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData Validating asset
+[2025.03.10-21.38.37:182][431]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.10-21.38.37:310][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.10-21.38.37:414][431]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.03.10-21.38.37:415][431]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Saved/VRTemplateMapF895B5D94356EC1993E60A8959C26832.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/SustainabilityGame/SustainabilityGame/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.03.10-21.38.37:429][431]LogFileHelpers: All files are already saved.
+[2025.03.10-21.38.37:429][431]LogFileHelpers: Saving map 'VRTemplateMap' took 0.157
+[2025.03.10-21.38.37:439][431]LogFileHelpers: InternalPromptForCheckoutAndSave took 256.046 ms (total: 6.36 sec)
+[2025.03.10-21.38.37:573][431]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.10-21.38.37:573][431]LogContentValidation: Enabled validators:
+[2025.03.10-21.38.37:573][431]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.10-21.38.37:573][431]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.10-21.38.37:573][431]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.10-21.38.37:573][431]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.10-21.38.37:573][431]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.10-21.38.37:573][431]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.10-21.38.37:573][431]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
