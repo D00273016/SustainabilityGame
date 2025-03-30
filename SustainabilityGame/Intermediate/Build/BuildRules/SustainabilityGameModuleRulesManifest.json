@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Paulina\\Documents\\GitHub\\SustainabilityGame\\SustainabilityGame\\Intermediate\\Source\\SustainabilityGame.Build.cs",
+		"C:\\Users\\Paulina\\Documents\\GitHub\\SustainabilityGame\\SustainabilityGame\\Intermediate\\Source\\SustainabilityGame.Target.cs",
+		"C:\\Users\\Paulina\\Documents\\GitHub\\SustainabilityGame\\SustainabilityGame\\Intermediate\\Source\\SustainabilityGameClient.Target.cs",
+		"C:\\Users\\Paulina\\Documents\\GitHub\\SustainabilityGame\\SustainabilityGame\\Intermediate\\Source\\SustainabilityGameEditor.Target.cs",
+		"C:\\Users\\Paulina\\Documents\\GitHub\\SustainabilityGame\\SustainabilityGame\\Intermediate\\Source\\SustainabilityGameServer.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
