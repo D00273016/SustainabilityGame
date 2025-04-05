@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\paulina\\documents\\github\\sustainabilitygame\\sustainabilitygame\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\sustainabilitygame\\module.sustainabilitygame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\paulina\\documents\\github\\sustainabilitygame\\sustainabilitygame\\intermediate\\build\\win64\\x64\\sustainabilitygame\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\paulina\\documents\\github\\sustainabilitygame\\sustainabilitygame\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\sustainabilitygame\\definitions.sustainabilitygame.h",
+            "c:\\users\\paulina\\documents\\github\\sustainabilitygame\\sustainabilitygame\\intermediate\\source\\sustainabilitygame.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
