@@ -10,6 +10,11 @@
 		{
 			"ShaderMapHash": "7937AE028864BD4507F16C0F0F6B3146681EBC81",
 			"Assets": [
+				"/Game/Fab/Garbage_Bag_White_LOWPOLY/GarbageWhiteNew_Baked",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_6",
+				"/Game/Fab/Tiffany_Lamp/Material_50",
+				"/Game/Fab/Tiffany_Lamp/Material_53",
+				"/Game/Fab/Tiffany_Lamp/Material_54",
 				"/Game/Fab/Tiffany_Lamp/Material_55"
 			]
 		},
@@ -46,7 +51,8 @@
 		{
 			"ShaderMapHash": "744B290D725F4360D25FC9CB497AF4C69C7BC684",
 			"Assets": [
-				"/Game/Fab/curtain/Material_001"
+				"/Game/Fab/curtain/Material_001",
+				"/Game/Fab/Dumpsters_and_Trash/graffiti"
 			]
 		},
 		{
@@ -64,7 +70,16 @@
 		{
 			"ShaderMapHash": "5D936D0FB24BD40056BFF375F1F72B73197805E1",
 			"Assets": [
-				"/Game/Fab/Paws_Up_Desk/reception_material_3"
+				"/Game/Fab/Paws_Up_Desk/black",
+				"/Game/Fab/Paws_Up_Desk/metal_pink",
+				"/Game/Fab/Paws_Up_Desk/reception_material_3",
+				"/Game/Fab/Paws_Up_Desk/white_laminet"
+			]
+		},
+		{
+			"ShaderMapHash": "86D36310468210821D356269E51A234DFF9EC7EB",
+			"Assets": [
+				"/Fab/Materials/Standard/M_MS_Billboard"
 			]
 		},
 		{
@@ -116,9 +131,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "516AC51B64A20AEA668FBBD7D2F86831F211D383",
+			"Assets": [
+				"/Game/Fab/Megascans/Plants/Violet_Wood_Sorrel_uchkajuia/Medium/MI_uchkajuia"
+			]
+		},
+		{
 			"ShaderMapHash": "E6BFE11B4E76A062A0F90CC6D3EEFF22E07FE63B",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "BF50DD1D1D0F586251DA4B060BE7C929EE3B58FB",
+			"Assets": [
+				"/Game/Fab/CC0_-_Magnet_Card/MagnetCard"
 			]
 		},
 		{
@@ -144,19 +171,18 @@
 		{
 			"ShaderMapHash": "6DB295247872C63ABE964FBC7CDD39FBF807D965",
 			"Assets": [
-				"/Game/Fab/Kimono_Stand/Material_008"
+				"/Game/Fab/Kimono_Stand/Material_008",
+				"/Game/Fab/Kimono_Stand/Material_009",
+				"/Game/Fab/Leather_Stool/01_-_Default",
+				"/Game/Fab/Leather_Stool/Box02__0",
+				"/Game/Fab/Pretty_simple_discoball/disco_mat",
+				"/Game/Fab/Pretty_simple_discoball/non_disco_mat"
 			]
 		},
 		{
 			"ShaderMapHash": "17BC0026F51853CA03DCC6B7CDA32BF42F8918DF",
 			"Assets": [
 				"/HairStrands/Materials/HairCardsDefaultMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "F2DF4B288DB9CEBD0F6BC513809CD0AA08A354E6",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Wall"
 			]
 		},
 		{
@@ -170,7 +196,14 @@
 		{
 			"ShaderMapHash": "039B5B299409C8DA53E217FCF37D54C3180B9055",
 			"Assets": [
+				"/Game/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/Characters/MannequinsXR/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "6C78ED29C15D2C9D2F17FA6782B5673755FCE195",
+			"Assets": [
+				"/Game/Fab/Megascans/Plants/Bigleaf_Hydrangea_vgztealha/Medium/MI_vgztealha"
 			]
 		},
 		{
@@ -192,9 +225,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "43F40C3199F9F22C0E963BCB034E1C2C180CD47C",
+			"Assets": [
+				"/Game/Fab/Megascans/Decals/Oily_Rag_piokavp2/Medium/T_piokavp2_2K_B-O_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "10DA6732FCEF224A81F1CAF52270B9520FE97F1E",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "51F0B63210A680D508ADF03EDC15AF407C1F8560",
+			"Assets": [
+				"/Fab/Materials/Standard/M_MS_Foliage"
 			]
 		},
 		{
@@ -243,6 +288,18 @@
 			"ShaderMapHash": "15F7FB399099BAC46DCA7AB5DDFFDD9BEEACAFD5",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3A1B303AD6E51B07220A6171D4FA2D88E0DC94CD",
+			"Assets": [
+				"/Game/Assets/Shops/RentADress/StaticMeshes/M_SM_WallR_Ren_WorldGridMaterial_BBE011F845CDB90B98A701B3645286C3"
+			]
+		},
+		{
+			"ShaderMapHash": "5F9F3C3A7F2E40D9BFA0AC7CFC730A7CD18BE35E",
+			"Assets": [
+				"/Game/Fab/Megascans/Plants/Violet_Wood_Sorrel_uchkajuia/Medium/MI_uchkajuia"
 			]
 		},
 		{
@@ -367,6 +424,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "823D5761CDB7E39D59FC91FEB4B0DDD3C6D96016",
+			"Assets": [
+				"/Game/Fab/Megascans/Plants/Bigleaf_Hydrangea_vgztealha/Medium/MI_vgztealha_Billboard"
+			]
+		},
+		{
 			"ShaderMapHash": "6981FD64647B1A27007D552DF94152221F90647E",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
@@ -445,9 +508,23 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BA2B5A78571A839E914CE4F3664BED6C9B3EE9FC",
+			"Assets": [
+				"/Game/Assets/Shops/VintageShop/StaticMeshes/M_SM_WallR_Vin_M_Glass_BEA2513743AB6459314012953EFB2C0B"
+			]
+		},
+		{
 			"ShaderMapHash": "FE44B87AAE3A5A8C86A57BEA01948E0597414287",
 			"Assets": [
-				"/Game/Fab/potted_plant-1/01_-_Default_0"
+				"/Game/Fab/potted_plant-1/01_-_Default_0",
+				"/Game/Fab/Sea_Life/FIsh",
+				"/Game/Fab/Sea_Life/Grass",
+				"/Game/Fab/Tiffany_Lamp/Color_A01",
+				"/Game/Fab/Tiffany_Lamp/Color_M081",
+				"/Game/Fab/Tiffany_Lamp/Material_42",
+				"/Game/Fab/Tiffany_Lamp/Material_43",
+				"/Game/Fab/Tiffany_Lamp/Material_44",
+				"/Game/Fab/Water_Bottle_Free/Material_002"
 			]
 		},
 		{
@@ -502,6 +579,23 @@
 		{
 			"ShaderMapHash": "1FC247869473EE2DFA45535C0BBDF937FA253B9D",
 			"Assets": [
+				"/Game/Fab/Tiffany_Lamp/Color_A01_2",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_3",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_4",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_5",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_7",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_8",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_9",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_10",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_11",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_12",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_13",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_14",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_15",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_16",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_17",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_18",
+				"/Game/Fab/Tiffany_Lamp/Color_A01_19",
 				"/Game/Fab/Tiffany_Lamp/Color_A01_20"
 			]
 		},
@@ -514,7 +608,14 @@
 		{
 			"ShaderMapHash": "DE8B1A88F78BEA52DF845213F621C8602F4B982C",
 			"Assets": [
-				"/Game/Fab/Swizza/Swizza_"
+				"/Game/Fab/CC0_-_Coat_Hanger/CoatHanger",
+				"/Game/Fab/Fancy_Marble_Coffee_Table/Trim",
+				"/Game/Fab/Old_Sewing_Machine/Metal",
+				"/Game/Fab/Old_Sewing_Machine/Sewing_Machine",
+				"/Game/Fab/Old_Sewing_Machine/Wood___Rubber",
+				"/Game/Fab/Sea_Life/Crab",
+				"/Game/Fab/Swizza/Swizza_",
+				"/Game/Fab/Wood_Clothes_Hanger/wire_228153184"
 			]
 		},
 		{
@@ -630,6 +731,7 @@
 		{
 			"ShaderMapHash": "907341A193970C4A34B1B2CFA4618E15A78D2016",
 			"Assets": [
+				"/Game/Fab/My_chandelier_-_like_please_if_you_download/Box002__0",
 				"/Game/Fab/My_chandelier_-_like_please_if_you_download/Drops"
 			]
 		},
@@ -691,7 +793,8 @@
 		{
 			"ShaderMapHash": "3BCF55ABD800D96ABA4F07770320B7C2F419DFA4",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
@@ -727,19 +830,41 @@
 		{
 			"ShaderMapHash": "8DD415B5CFB17E4AACA8EF747904A115023DD862",
 			"Assets": [
-				"/Game/Fab/Wooden_Bench/WoodenBody"
+				"/Game/Fab/Brown_vintage_table-Freepoly_org/material",
+				"/Game/Fab/Brown_vintage_table-Freepoly_org/material_1",
+				"/Game/Fab/Chinese_vase/Vase",
+				"/Game/Fab/Dumpsters_and_Trash/dumpster",
+				"/Game/Fab/Dumpsters_and_Trash/papers",
+				"/Game/Fab/Dumpsters_and_Trash/trash_bag",
+				"/Game/Fab/Old_Skein_of_Thread/Material",
+				"/Game/Fab/Sewing_Mannequin/Sewing_Mannequin",
+				"/Game/Fab/Swizza/Swizza_Fabric",
+				"/Game/Fab/Tiffany_Lamp/Color_H01",
+				"/Game/Fab/Tiffany_Lamp/DefaultMaterial1",
+				"/Game/Fab/Tiffany_Lamp/Material_45",
+				"/Game/Fab/Tiffany_Lamp/Material_47",
+				"/Game/Fab/Tiffany_Lamp/Material_48",
+				"/Game/Fab/Tiffany_Lamp/Material_49",
+				"/Game/Fab/Tiffany_Lamp/Material_51",
+				"/Game/Fab/Tiffany_Lamp/Material_52",
+				"/Game/Fab/Tiffany_Lamp/Material_56",
+				"/Game/Fab/Tiffany_Lamp/Material_57",
+				"/Game/Fab/Water_Bottle_Free/Plane_007_Baked",
+				"/Game/Fab/Water_Bottle_Free/Plane_008_Baked",
+				"/Game/Fab/Wooden_Bench/WoodenBody",
+				"/Game/Fab/Wooden_Bench/WoodenFrame"
+			]
+		},
+		{
+			"ShaderMapHash": "331225B6AACB712C8CCF3CD7D8AECE8861A789CE",
+			"Assets": [
+				"/Game/Fab/Megascans/Plants/Violet_Wood_Sorrel_uchkajuia/Medium/MI_uchkajuia_Billboard"
 			]
 		},
 		{
 			"ShaderMapHash": "E0C6DEB6916D9F952D49036C09AFF94F3A6DC8C1",
 			"Assets": [
 				"/USDCore/Materials/UsdPreviewSurfaceTwoSided"
-			]
-		},
-		{
-			"ShaderMapHash": "8307F0B7BCF5B7B101D92B0BB15381351B93835B",
-			"Assets": [
-				"/Fab/Materials/Standard/M_MS_Decal"
 			]
 		},
 		{
@@ -816,6 +941,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "79D655D272EDDD9F2905B60B822DF8DF2D229E3E",
+			"Assets": [
+				"/Fab/Materials/Standard/M_MS_Foliage"
+			]
+		},
+		{
 			"ShaderMapHash": "BEA931D3C648D314634AB9BD85FE07AC263C55F7",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
@@ -866,13 +997,27 @@
 		{
 			"ShaderMapHash": "27F104DD7BA8410E48BDB52595FDE65406585E62",
 			"Assets": [
-				"/Game/Fab/Garden_lamp/Glass"
+				"/Game/Fab/Garden_lamp/Glass",
+				"/Game/Fab/Garden_lamp/Metal",
+				"/Game/Fab/Garden_lamp/Metal2"
+			]
+		},
+		{
+			"ShaderMapHash": "10BA53DE9677CA9084B468E643D2968EF7182B93",
+			"Assets": [
+				"/Game/Fab/Megascans/Plants/Bigleaf_Hydrangea_vgztealha/Medium/MI_vgztealha"
 			]
 		},
 		{
 			"ShaderMapHash": "64DB89E1E186C4263249BF70E03E3E83AE8FD5F8",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "192D3AE3CD6D1FC1A822C60517C2572E8AACB9EB",
+			"Assets": [
+				"/Fab/Materials/Standard/M_MS_Billboard"
 			]
 		},
 		{
@@ -912,6 +1057,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2DDDC0EBF73364876F09FC7D38BDFF7702D9F5D3",
+			"Assets": [
+				"/Game/Assets/Shops/RentADress/StaticMeshes/M_SM_WallR_Ren_MI_M_Blackrick_32_TwoSided_BBE011F845CDB90B98A701B3645286C3",
+				"/Game/Assets/Shops/RentADress/StaticMeshes/M_SM_WallR_Ren_MI_M_RoofTil32_31_TwoSided_BBE011F845CDB90B98A701B3645286C3",
+				"/Game/Assets/Shops/RentADress/StaticMeshes/M_SM_WallR_Ren_MI_M_RoofTiles_28_TwoSided_BBE011F845CDB90B98A701B3645286C3",
+				"/Game/Assets/Shops/RentADress/StaticMeshes/M_SM_WallR_Ren_MI_M_ShopPeach_30_TwoSided_BBE011F845CDB90B98A701B3645286C3",
+				"/Game/Assets/Shops/RentADress/StaticMeshes/M_SM_WallR_Ren_MI_White_27_TwoSided_BBE011F845CDB90B98A701B3645286C3",
+				"/Game/Assets/Shops/VintageShop/StaticMeshes/M_SM_WallR_Vin_MI_M_Blackrick_51_TwoSided_BEA2513743AB6459314012953EFB2C0B",
+				"/Game/Assets/Shops/VintageShop/StaticMeshes/M_SM_WallR_Vin_MI_M_RoofTil32_50_TwoSided_BEA2513743AB6459314012953EFB2C0B",
+				"/Game/Assets/Shops/VintageShop/StaticMeshes/M_SM_WallR_Vin_MI_M_RoofTiles_48_TwoSided_BEA2513743AB6459314012953EFB2C0B",
+				"/Game/Assets/Shops/VintageShop/StaticMeshes/M_SM_WallR_Vin_MI_M_ShopBlue_16_TwoSided_BEA2513743AB6459314012953EFB2C0B",
+				"/Game/Assets/Shops/VintageShop/StaticMeshes/M_SM_WallR_Vin_MI_White_46_TwoSided_BEA2513743AB6459314012953EFB2C0B"
+			]
+		},
+		{
 			"ShaderMapHash": "6DC404ECD9A6481748D8EDAD0A2F9A5A28C1059C",
 			"Assets": [
 				"/HairStrands/Materials/HairDefaultMaterial",
@@ -927,6 +1087,7 @@
 		{
 			"ShaderMapHash": "07CF3CF2DD8FF47C084DA81812B2B77A4E74A9A0",
 			"Assets": [
+				"/Game/Fab/Dome_Showcase/Structure",
 				"/Game/Fab/Dome_Showcase/Windows"
 			]
 		},
@@ -945,7 +1106,12 @@
 		{
 			"ShaderMapHash": "EFA519F58F99F01F2C6982A7C6B1265EA50F82E8",
 			"Assets": [
-				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+				"/OpenXR/Devices/HPMixedReality/MI_HPMixedReality",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex"
 			]
 		},
 		{
